@@ -1,0 +1,20 @@
+{
+  "name": "web-node-wrapper",
+  "version": "1.0.0",
+  "description": "Front-end web node wrapper",
+  "author": "gill gong <gill@jwis.cn|gillmstar@163.com>",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "compression": "^1.7.3",
+    "lodash": "^4.17.4",
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  }
+}
